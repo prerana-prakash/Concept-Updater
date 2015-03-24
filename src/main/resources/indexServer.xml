@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+    <version>2</version>
+    <to>Harry</to>
+    <from>Sally</from>
+    <heading>When Harry met Sally</heading>
+    <body>you can change the contents of indexServer.xml which will be reflected on indexClient.xml</body>
+</note>
